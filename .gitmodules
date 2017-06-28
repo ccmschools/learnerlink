@@ -1,0 +1,96 @@
+[submodule "mod/customcert"]
+	path = mod/customcert
+	url = https://github.com/markn86/moodle-mod_customcert.git
+[submodule "mod/questionnaire"]
+	path = mod/questionnaire
+	url = https://github.com/remotelearner/moodle-mod_questionnaire.git
+[submodule "mod/checklist"]
+	path = mod/checklist
+	url = https://github.com/davosmith/moodle-checklist.git
+[submodule "mod/choicegroup"]
+	path = mod/choicegroup
+	url = https://github.com/ndunand/moodle-mod_choicegroup.git
+[submodule "blocks/microsoft"]
+	path = blocks/microsoft
+	url = https://github.com/Microsoft/moodle-block_microsoft.git
+[submodule "blocks/checklist"]
+	path = blocks/checklist
+	url = https://github.com/davosmith/moodle-block_checklist.git
+[submodule "blocks/bcu_course_checks"]
+	path = blocks/bcu_course_checks
+	url = https://bitbucket.org/mikegrant/bcu-course-checks-block.git
+[submodule "blocks/studentstracker"]
+	path = blocks/studentstracker
+	url = https://github.com/Hipjea/studentstracker.git
+[submodule "blocks/completion_progress"]
+	path = blocks/completion_progress
+	url = https://github.com/deraadt/moodle-block_completion_progress.git
+[submodule "blocks/xp"]
+	path = blocks/xp
+	url = https://github.com/FMCorz/moodle-block_xp.git
+[submodule "blocks/heatmap"]
+	path = blocks/heatmap
+	url = https://github.com/deraadt/moodle-block_heatmap.git
+[submodule "blocks/configurable_reports"]
+	path = blocks/configurable_reports
+	url = https://github.com/jleyva/moodle-block_configurablereports.git
+[submodule "grade/export/checklist"]
+	path = grade/export/checklist
+	url = https://github.com/davosmith/moodle-grade_checklist.git
+[submodule "filter/oembed"]
+	path = filter/oembed
+	url = https://github.com/PoetOS/moodle-filter_oembed.git
+[submodule "filter/fontawesome"]
+	path = filter/fontawesome
+	url = https://github.com/ccmschools/learnerlink-filter_fontawesome.git
+[submodule "auth/oidc"]
+	path = auth/oidc
+	url = https://github.com/Microsoft/moodle-auth_oidc.git
+[submodule "lib/editor/atto/plugins/fullscreen"]
+	path = lib/editor/atto/plugins/fullscreen
+	url = https://github.com/dthies/moodle-atto_fullscreen.git
+[submodule "lib/editor/atto/plugins/styles"]
+	path = lib/editor/atto/plugins/styles
+	url = https://github.com/moodleuulm/moodle-atto_styles.git
+[submodule "lib/editor/atto/plugins/pastespecial"]
+	path = lib/editor/atto/plugins/pastespecial
+	url = https://github.com/cdsmith-umn/pastespecial.git
+[submodule "lib/editor/atto/plugins/cloze"]
+	path = lib/editor/atto/plugins/cloze
+	url = https://github.com/dthies/moodle-atto_cloze.git
+[submodule "lib/editor/atto/plugins/count"]
+	path = lib/editor/atto/plugins/count
+	url = https://github.com/damyon/moodle-atto_count.git
+[submodule "enrol/autoenrol"]
+	path = enrol/autoenrol
+	url = https://github.com/bobopinna/moodle-enrol_autoenrol.git
+[submodule "availability/condition/mobileapp"]
+	path = availability/condition/mobileapp
+	url = https://github.com/moodlehq/moodle-availability_mobileapp.git
+[submodule "availability/condition/xp"]
+	path = availability/condition/xp
+	url = https://github.com/FMCorz/moodle-availability_xp.git
+[submodule "course/format/topcoll"]
+	path = course/format/topcoll
+	url = https://github.com/gjb2048/moodle-format_topcoll.git
+[submodule "course/format/grid"]
+	path = course/format/grid
+	url = https://github.com/gjb2048/moodle-format_grid.git
+[submodule "course/format/onetopic"]
+	path = course/format/onetopic
+	url = https://github.com/davidherney/moodle-format_onetopic.git
+[submodule "repository/office365"]
+	path = repository/office365
+	url = https://github.com/Microsoft/moodle-repository_office365.git
+[submodule "local/o365"]
+	path = local/o365
+	url = https://github.com/Microsoft/moodle-local_o365.git
+[submodule "local/mobile"]
+	path = local/mobile
+	url = https://github.com/moodlehq/moodle-local_mobile.git
+[submodule "local/autogroup"]
+	path = local/autogroup
+	url = https://github.com/ccmschools/local_autogroup.git
+[submodule "loginform"]
+	path = loginform
+	url = https://github.com/ccmschools/learnerlink-loginform.git
